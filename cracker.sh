@@ -1,4 +1,6 @@
 #!/bin/bash
+# clear screen
+clear
 #color
 red="\e[91m"
 rset="\e[0m"
