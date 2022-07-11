@@ -1,4 +1,5 @@
 # Disclaimer
-I am not responsible for any illegal work this is your responsibility, this tool is just for educational purpose only.
+I am not responsible for any illegal work this is your responsibility. (this tool is just for educational purpose only.)
 # Cracker
-Cracker is a tool kit in which you get lot's of brute forcing tool
+Cracker is a social media tool kit in which you get lot's of brute forcing tool
+# installation 
